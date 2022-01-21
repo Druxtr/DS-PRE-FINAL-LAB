@@ -17,15 +17,16 @@
 
 (3) SPARSE MATRIX
 		-Transpose of sparse matrix
-		-Addition of two sparse matrix
+		-Addition of two sparse matrix          ✔
 
 (4) SINGLY LINK LIST
 		-Insertion 
 		-Deletion
 
 (5) SORTING PROGRAMS
-		-Bubble-sort
-		-Selection-sort
+		-Bubble-sort                             ✔
+		-Selection-sort                          ✔
+		-Insertion-sort                          ✔
 
 (6) SEARCHING PROGRAMS
 		-Linear search
